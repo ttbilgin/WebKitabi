@@ -1,4 +1,5 @@
 # Bölüm 1. İnternet’in Temelleri ve  Web Teknolojileri
+
 ## 1.1.	İnternet’in Tarihsel Gelişimi
 ## 1.2.	Web Tanımı  ve Web ile İlgili  Terimler
 ## 1.3.	Web Teknolojileri Standartları
@@ -6,7 +7,10 @@
 ## 1.5.	Web Tarayıcıları
 ## 1.6.	Özet
 ## 1.7.	Çalışma  Soruları
+
+
 # Bölüm 2. HTML  Diline Giriş: Temel  HTML Etiketleri
+
 ## 2.1.	HTML Belgesi Oluşturma
 ## 2.2.	HTML Belge Yapısı
 ## 2.3.	<head> Bölümünde Kullanılan  HTML Etiketleri
