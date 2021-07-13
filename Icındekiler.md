@@ -1,4 +1,4 @@
-# Bölüm 1. İnternet’in Temelleri ve  Web Teknolojileri &lt;
+# Bölüm 1. İnternet’in Temelleri ve  Web Teknolojileri
 
 ## 1.1.	İnternet’in Tarihsel Gelişimi
 ## 1.2.	Web Tanımı  ve Web ile İlgili  Terimler
@@ -13,16 +13,16 @@
 
 ## 2.1.	HTML Belgesi Oluşturma
 ## 2.2.	HTML Belge Yapısı
-## 2.3.	<head> Bölümünde Kullanılan  HTML Etiketleri
-### 2.3.1	<TITLE>  Etiketi
-### 2.3.2	<META> Etiketi
+## 2.3.	&lt;head&gt; Bölümünde Kullanılan  HTML Etiketleri
+### 2.3.1	&lt;TITLE&gt;  Etiketi
+### 2.3.2	&lt;META&gt; Etiketi
 ## 2.4.	Başlık Oluşturma
 ## 2.5.	Paragraf Oluşturma
 ## 2.6.	Alt Satıra Geçirme  Etiketi
 ## 2.7.	Metinler  Arasına Boşluk Ekleme
 ## 2.8.	Yatay  Çizgi  Oluşturma (Horizontal Line)
 ## 2.9.	HTML Kodları  Arasına Açıklama Satırları Ekleme
-## 2.10.	Yazı  Türleri Belirleme:   <Font> Etiketi
+## 2.10.	Yazı  Türleri Belirleme:   &lt;Font&gt; Etiketi
 ### 2.10.1	Font Büyüklüğü Belirleme  (size)
 ### 2.10.2	Font Türü Belirleme  (face)
 ### 2.10.3.  Font Rengi Belirleme  (color)
@@ -31,16 +31,16 @@
 
   #Bölüm 3. HTML  İleri Düzey Etiketleri: Metin Biçimlendirme, Resimler, Linkler, İmler
 ##3.1.	Metin Biçimlendirme  Etiketleri	
-###3.1.1.	Koyu Metin: <b> Etiketi	
-###3.1.2.	İtalik  Metin (Sağa Yatık):  <i> Etiketi 	
-###3.1.3.	Altı Çizili   Metin (Underlined): <u> Etiketi	
-###3.1.4.	Üzeri  Çizili   Metin (Strike): <strike> Etiketi	
-###3.1.5.	Eş  Aralıklı  Yazı  Türü  (truetype): <tt> Etiketi	
-###3.1.6.	Üst Simge  (superscript): <sup> Etiketi	
-###3.1.7.	Alt Simge  (subscript): <sub> Etiketi	
-###3.1.8.	Etiketleri  Gruplamak:  <div> Etiketi	
+###3.1.1.	Koyu Metin: &lt;b&gt; Etiketi	
+###3.1.2.	İtalik  Metin (Sağa Yatık):  &lt;i&gt; Etiketi 	
+###3.1.3.	Altı Çizili   Metin (Underlined): &lt;u&gt; Etiketi	
+###3.1.4.	Üzeri  Çizili   Metin (Strike): &lt;strike&gt; Etiketi	
+###3.1.5.	Eş  Aralıklı  Yazı  Türü  (truetype): &lt;tt&gt; Etiketi	
+###3.1.6.	Üst Simge  (superscript): &lt;sup&gt; Etiketi	
+###3.1.7.	Alt Simge  (subscript): &lt;sub&gt; Etiketi	
+###3.1.8.	Etiketleri  Gruplamak:  &lt;div&gt; Etiketi	
 ##3.2.	HTML Belgelerine  Resim Ekleme	
-###3.2.1.	<img> Etiketine  Ait Nitelikler	
+###3.2.1.	&lt;img&gt; Etiketine  Ait Nitelikler	
 ###3.2.2.	HTML Belgelerine Eklenebilen Resim Dosya Türleri	
 ##3.3	HTML Belgelerinde  Link  (Bağlantı  ve Çapa) Oluşturma	
 ###3.3.1.	Resim Linkler	
@@ -52,7 +52,7 @@
 ##3.6.	Çalışma  Soruları	
 #Bölüm 4. Tablo,  Çerçeve ve Formlar	
 ##4.1.	Tablo Oluşturma	
-###4.1.1.	Tablolarda Sütun Başlıkları:   <th> Etiketi	
+###4.1.1.	Tablolarda Sütun Başlıkları:   &lt;th&gt; Etiketi	
 ###4.1.2.	Cellpadding ve Cellspacing Nitelikleri	
 ###4.1.3.	Colspan ve Rowspan Nitelikleri	
 ###4.1.4.	Tablolarda Arka Plan Renkleri	
@@ -77,7 +77,7 @@
 ##5.5.	Seçicileri  Gruplama	
 ##5.6.	CSS Nitelikleri  (Property)	
 ##5.7.	CSS  Kodlarının  HTML İçinde Kullanım  İekilleri 	
-###5.7.1.	Gömülü  CSS  ( <style> Etiketi ile Kullanım)	
+###5.7.1.	Gömülü  CSS  ( &lt;style&gt; Etiketi ile Kullanım)	
 ###5.7.2.	Satır İçi (Inline)  CSS 	
 ###5.7.3.	Harici CSS Dosyaları	
 ##5.8.	CSS  Stilleri  Etki Önceliği Sıralaması	
