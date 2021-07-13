@@ -29,7 +29,7 @@
 ## 2.11.	Özet
 ## 2.12.	Çalışma  Soruları
 
-  #Bölüm 3. HTML  İleri Düzey Etiketleri: Metin Biçimlendirme, Resimler, Linkler, İmler
+# Bölüm 3. HTML  İleri Düzey Etiketleri: Metin Biçimlendirme, Resimler, Linkler, İmler
 ## 3.1.	Metin Biçimlendirme  Etiketleri	
 ### 3.1.1.	Koyu Metin: &lt;b&gt; Etiketi	
 ### 3.1.2.	İtalik  Metin (Sağa Yatık):  &lt;i&gt; Etiketi 	
@@ -49,8 +49,10 @@
 ### 3.4.1.	Sırasız  (Madde İmli)  Listeler 	
 ### 3.4.2.	Sıralı  Listeler	
 ## 3.5.	Özet	
-## 3.6.	Çalışma  Soruları	
-#Bölüm 4. Tablo,  Çerçeve ve Formlar	
+## 3.6.	Çalışma  Soruları
+
+# Bölüm 4. Tablo,  Çerçeve ve Formlar
+
 ## 4.1.	Tablo Oluşturma	
 ### 4.1.1.	Tablolarda Sütun Başlıkları:   &lt;th&gt; Etiketi	
 ### 4.1.2.	Cellpadding ve Cellspacing Nitelikleri	
@@ -68,8 +70,9 @@
 ### 4.3.5.	HTML Formlarda Butonlar	
 ## 4.4.	Özet	
 ## 4.5.	Çalışma  Soruları	
-# 
-#Bölüm 5. CSS ile HTML Biçimlendirme	
+
+# Bölüm 5. CSS ile HTML Biçimlendirme	
+
 ## 5.1.	CSS Seçicileri	
 ## 5.2.	Genel Seçiciler	
 ## 5.3.	Sınıf Seçiciler	
@@ -94,7 +97,9 @@
 ### 5.10.9.	Linklerin  Renklerini  Belirleme	
 ## 5.11.	Özet	
 ## 5.12.	Çalışma  Soruları	
-#Bölüm 6.  XML  Dili ve Özellikleri	
+
+# Bölüm 6.  XML  Dili ve Özellikleri	
+
 ## 6.1.	XML Dilinin  Özellikleri	
 ## 6.2.	XML ile  HTML Arasındaki Farklar	
 ## 6.3.	XML Dilinin  Olumlu  Yanları	
@@ -111,8 +116,10 @@
 ## 6.10.	Etiket  Yerine Nitelik Kullanma	
 ## 6.11.	XML Belgelerinde Stil Oluşturma	
 ## 6.12.	Özet	
-## 6.13.	Çalışma  Soruları	
-#Bölüm 7. JavaScript Diline Giriş	
+## 6.13.	Çalışma  Soruları
+
+# Bölüm 7. JavaScript Diline Giriş
+
 ## 7.1.	JavaScript Nedir?	
 ## 7.2.	JavaScript Dilinin  Getirileri	
 ## 7.3.	JavaScript Dilinin  Sınırlamaları	
@@ -135,8 +142,9 @@
 ## 7.16.	JavaScript  Dilinde while Döngüleri	
 ## 7.17.	Özet	
 ## 7.18.	Çalışma  Soruları	
-# 
-#Bölüm 8. Fonksiyon, Dizi ve Nesneler	
+
+# Bölüm 8. Fonksiyon, Dizi ve Nesneler
+
 ## 8.1.	Fonksiyon Tanımlama	
 ## 8.2.	Fonksiyon Çağırma	
 ## 8.3.	Parametre Alan Fonksiyonlar	
@@ -158,8 +166,10 @@
 ### 8.8.3.	getDay() Metodu	
 ### 8.8.4.	Diğer Tarih Metotları	
 ## 8.8.	Özet	
-## 8.9.	Çalışma  Soruları	
-#Bölüm 9. Javascript’te Olaylar, Pencere ve Formlar 	
+## 8.9.	Çalışma  Soruları
+
+# Bölüm 9. Javascript’te Olaylar, Pencere ve Formlar
+
 ## 9.1.	Olay Kavramı	
 ### 9.1.1.	onclick Olayı	
 ### 9.1.2.	onsubmit Olayı	
@@ -176,14 +186,18 @@
 ### 9.3.2.	DOM  Seviye 2 Yöntemiyle   Form Alanlarına Erişim	
 ### 9.3.3.	Javascript ile Form Denetleme	
 ## 9.4	Özet	
-## 9.5	Çalışma Soruları	
-#Bölüm 10. PHP için Sunucu Kurulumu	
+## 9.5	Çalışma Soruları
+
+# Bölüm 10. PHP için Sunucu Kurulumu
+
 ## 10.1.	PHP Nedir?	
 ## 10.2.	PHP  Kodu Çalıştırabilmek  İçin Gerekli  Yazılımla r 	
 ## 10.3.	WampServer Kurulumu	
 ## 10.4.	Özet	
-## 10.5.	Çalışma Soruları	
-#Bölüm 11. PHP'de Veri Türleri, Koşullar, Döngüler, Diziler ve Fonksiyonlar	
+## 10.5.	Çalışma Soruları
+
+# Bölüm 11. PHP'de Veri Türleri, Koşullar, Döngüler, Diziler ve Fonksiyonlar	
+
 ## 11.1.	PHP dilinde Yorumlar	
 ## 11.2.	Noktalı Virgül Kullanımı	
 ## 11.3.	PHP Dilinde Değişkenler	
@@ -207,7 +221,9 @@
 ## 11.16.	PHP’de Fonksiyon Tanımlama	
 ## 11.17.	. Özet	
 ## 11.18.	Çalışma  Soruları	
-#Bölüm 12. PHP ile Form, Dosya ve XML İşlemleri HTML	
+
+# Bölüm 12. PHP ile Form, Dosya ve XML İşlemleri HTML
+
 ## 12.1.	HTML Formlardan  Bilgi Almak	
 ## 12.2.	GET  Metodu Kullanan Formlardan  Bilgi Almak	
 ## 12.3.	POST  Metodu Kullanan Formlardan Bilgi Almak	
@@ -224,8 +240,10 @@
 ### 12.8.1.	PHP  ile  XML Belge Oluşturma	
 ### 12.8.2.	PHP  ile XML Belgeyi Okuma	
 ## 12.9.	Özet	
-## 12.10.	Çalışma  Soruları	
-#Bölüm 13. PHP ile Çerez ve Oturumlar	
+## 12.10.	Çalışma  Soruları
+
+# Bölüm 13. PHP ile Çerez ve Oturumlar
+
 ## 13.1.	Çerez Kavramı	
 ## 13.2.	PHP’de Çerez Kullanımı	
 ## 13.3.	PHP’de Çerezlere  Erişim	
@@ -233,10 +251,11 @@
 ## 13.6.	PHP’de Oturum Yönetimi	
 ## 13.7.	PHP’de Oturum Başlatma	
 ## 13.8.	PHP’de Oturum Sonlandırma	
-# 
 ## 13.9.	Özet	
-## 13.10.	Çalışma  soruları	
-#Bölüm 14: PHP ile MySQL kullanımı
+## 13.10.	Çalışma  soruları
+
+# Bölüm 14: PHP ile MySQL kullanımı
+
 ## 14.1.	Veritabanı Bağlantılı Tasarım:  3-Katmanlı Mimari	
 ## 14.2.	MySQL Veritabanı Sunucusu	
 ## 14.3.	phpMyAdmin Kullanarak MySQL’e Bağlanmak	
@@ -248,15 +267,19 @@
 ## 14.9.	PHP ile MySQL Veritabanındaki  Tablolardan Bilgi Silmek	
 ## 14.10.	PHP ile  MySQL Veritabanındaki  Tablolarda Bilgi Güncelleme	
 ## 14.11.	Özet	
-## 14.12.	Çalışma  Soruları	
-#Bölüm 15. PHP-MySQL  ile Örnek Proje	
+## 14.12.	Çalışma  Soruları
+
+# Bölüm 15. PHP-MySQL  ile Örnek Proje
+
 ## 15.1.	MySQL Veritabanı Oluşturulması	
 ## 15.2.	MySQL Veritabanına Bağlantı	
 ## 15.3.	Kullanıcı Kayıt Uygulaması	
 ## 15.4.	Kullanıcı  Girişi (Login) Uygulaması	
 ## 15.5.	Yetkilendirme   Sistemi  ile Personel Otomasyonu Entegrasyonu	
-## 15.6.	Özet	
-#Bölüm 16. Mobil Uyumlu Web Uygulamaları Geliştirme
+## 15.6.	Özet
+
+# Bölüm 16. Mobil Uyumlu Web Uygulamaları Geliştirme
+
 ## 16.1.	Bootstrap Nedir?	
 ## 16.2.	Bootstrap Kurulumu	
 ### 16.2.1.	Bootstrap’ı İndirerek Kullanma 	
