@@ -29,24 +29,24 @@
 ## 2.11.	Özet
 ## 2.12.	Çalışma  Soruları
 
-  #Bölüm 3. HTML  İleri Düzey Etiketleri: Metin Biçimlendirme, Resimler, Linkler, İmler
-##3.1.	Metin Biçimlendirme  Etiketleri	
-###3.1.1.	Koyu Metin: &lt;b&gt; Etiketi	
-###3.1.2.	İtalik  Metin (Sağa Yatık):  &lt;i&gt; Etiketi 	
-###3.1.3.	Altı Çizili   Metin (Underlined): &lt;u&gt; Etiketi	
-###3.1.4.	Üzeri  Çizili   Metin (Strike): &lt;strike&gt; Etiketi	
-###3.1.5.	Eş  Aralıklı  Yazı  Türü  (truetype): &lt;tt&gt; Etiketi	
-###3.1.6.	Üst Simge  (superscript): &lt;sup&gt; Etiketi	
-###3.1.7.	Alt Simge  (subscript): &lt;sub&gt; Etiketi	
-###3.1.8.	Etiketleri  Gruplamak:  &lt;div&gt; Etiketi	
-##3.2.	HTML Belgelerine  Resim Ekleme	
-###3.2.1.	&lt;img&gt; Etiketine  Ait Nitelikler	
-###3.2.2.	HTML Belgelerine Eklenebilen Resim Dosya Türleri	
-##3.3	HTML Belgelerinde  Link  (Bağlantı  ve Çapa) Oluşturma	
-###3.3.1.	Resim Linkler	
-###3.3.2.	Link  Kullanarak E-posta Gönderme	
-##3.4.	Sıralı  ve Sırasız Listeler	
-###3.4.1.	Sırasız  (Madde İmli)  Listeler 	
+# Bölüm 3. HTML  İleri Düzey Etiketleri: Metin Biçimlendirme, Resimler, Linkler, İmler
+## 3.1.	Metin Biçimlendirme  Etiketleri	
+### 3.1.1.	Koyu Metin: &lt;b&gt; Etiketi	
+### 3.1.2.	İtalik  Metin (Sağa Yatık):  &lt;i&gt; Etiketi 	
+### 3.1.3.	Altı Çizili   Metin (Underlined): &lt;u&gt; Etiketi	
+### 3.1.4.	Üzeri  Çizili   Metin (Strike): &lt;strike&gt; Etiketi	
+### 3.1.5.	Eş  Aralıklı  Yazı  Türü  (truetype): &lt;tt&gt; Etiketi	
+### 3.1.6.	Üst Simge  (superscript): &lt;sup&gt; Etiketi	
+### 3.1.7.	Alt Simge  (subscript): &lt;sub&gt; Etiketi	
+### 3.1.8.	Etiketleri  Gruplamak:  &lt;div&gt; Etiketi	
+## 3.2.	HTML Belgelerine  Resim Ekleme	
+### 3.2.1.	&lt;img&gt; Etiketine  Ait Nitelikler	
+### 3.2.2.	HTML Belgelerine Eklenebilen Resim Dosya Türleri	
+## 3.3	HTML Belgelerinde  Link  (Bağlantı  ve Çapa) Oluşturma	
+### 3.3.1.	Resim Linkler	
+### 3.3.2.	Link  Kullanarak E-posta Gönderme	
+## 3.4.	Sıralı  ve Sırasız Listeler	
+### 3.4.1.	Sırasız  (Madde İmli)  Listeler 	
 ###3.4.2.	Sıralı  Listeler	
 ##3.5.	Özet	
 ##3.6.	Çalışma  Soruları	
