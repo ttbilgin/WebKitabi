@@ -1,7 +1,7 @@
 # Bölüm 1. İnternet’in Temelleri ve  Web Teknolojileri
-
+.
 ## 1.1.	İnternet’in Tarihsel Gelişimi
-
+.
 ## 1.2.	Web Tanımı  ve Web ile İlgili  Terimler
 
 ## 1.3.	Web Teknolojileri Standartları
